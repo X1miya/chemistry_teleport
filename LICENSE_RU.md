@@ -1,7 +1,7 @@
 # Лицензия и условия использования (Chemistry Teleport)
 
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (CC BY-NC-ND 4.0)**  
-Copyright (c) 2024-2026 X1miyaStudio (X1miya и участники проекта)  
+Copyright (c) 2023-2026 X1miyaStudio (X1miya и участники проекта)  
 *(English version: [LICENSE](LICENSE))*
 
 Данный датапак / проект разработан студией **X1miyaStudio**.
